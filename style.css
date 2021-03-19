@@ -11,7 +11,14 @@ section {
   padding-top: 5rem;
 }
 
+div {
+}
+
 section1 {
   padding-top: 2rem;
   padding-bottom: 6rem;
+}
+
+div-2 {
+  padding: 100px;
 }
